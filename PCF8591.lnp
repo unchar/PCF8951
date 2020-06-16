@@ -1,0 +1,7 @@
+"DA.obj",
+"I2C.obj",
+"lcd12864.obj",
+"delay_ms.obj",
+"main.obj" 
+TO "PCF8591" 
+PRINT(".\Listings\PCF8591.m51") RAMSIZE(256) 
